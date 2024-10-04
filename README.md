@@ -5,7 +5,7 @@ interested in machine learning.
 This previous summer I've interned with Argonne National Labratory working on automating the process
 of diamond etching to produce quantum bits. Through this internship I learned how to utilize computer vision with python.
 This is where my interest in machine learning started and since
-I've been open to more oppurtunities to work with machine learning.
+I've been open to more opportunities to work with machine learning.
 
 Specialties: C/C++, Java, Python, Computer Vision
 
