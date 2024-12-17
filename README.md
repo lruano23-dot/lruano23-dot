@@ -1,11 +1,9 @@
 Hello! My name is Lisette Ruano.
 I am an undergraduate CS student at UIC currently
-interested in machine learning. 
+interested in data analysis. 
 
 This previous summer I've interned with Argonne National Labratory working on automating the process
 of diamond etching to produce quantum bits. Through this internship I learned how to utilize computer vision with python.
-This is where my interest in computer vision started and since
-I've been open to more similar oppurtunities.
 
 Specialties: C/C++, Java, Python, Computer Vision
 
