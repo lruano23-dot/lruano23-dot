@@ -5,7 +5,7 @@ interested in data analysis.
 This previous summer I've interned with Argonne National Labratory working on automating the process
 of diamond etching to produce quantum bits. Through this internship I learned how to utilize computer vision with python.
 
-Specialties: C/C++, Java, Python, Computer Vision
+Specialties: SQL, Python, Computer Vision, C/C++, Java
 
 <!---
 lruano23-dot/lruano23-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
